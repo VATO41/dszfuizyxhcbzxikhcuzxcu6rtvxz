@@ -1,0 +1,11 @@
+.box{
+    width: 550px;
+    height: 550px;
+    background-color:   rgba(249, 223, 223, 1);
+    padding-top: 80px;
+    padding-left: 103px;
+    border: 1px red;
+}
+.p{
+    color: red;
+}
